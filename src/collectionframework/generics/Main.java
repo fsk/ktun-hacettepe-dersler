@@ -1,6 +1,5 @@
-package oop.generics;
+package collectionframework.generics;
 
-import java.util.function.Function;
 import java.util.function.Predicate;
 
 public class Main {

@@ -1,4 +1,4 @@
-package oop.generics;
+package collectionframework.generics;
 
 public class Student {
 
