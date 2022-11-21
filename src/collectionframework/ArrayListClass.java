@@ -37,6 +37,7 @@ public class ArrayListClass {
         //ArrayList[] inst = new ArrayList[5];
 
         List instance = new LinkedList();
+        instance.add("");
         //instance.
         //sehirler.
 
